@@ -1,0 +1,6 @@
+{
+    "identifier": "foo_plugin",
+    "name": "Foo plugin",
+    "version": "beta",
+    "author": "C. Brun"
+}
