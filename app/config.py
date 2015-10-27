@@ -1,0 +1,3 @@
+LANGUAGES = {
+    'fr': 'French',
+}
